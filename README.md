@@ -1,24 +1,10 @@
-# README
+# Alpha Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a test project to practice important Ruby on Rails concepts including:
+* Building an authentication system from scratch
+* Using bootstrap to style our views
+* Building relationships between models
+* Using gravatars to add profile pictures
+* Using pagination for listing views
+* And much more..
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
