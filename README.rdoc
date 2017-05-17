@@ -1,4 +1,4 @@
-# Alpha Blog
+== Alpha Blog
 
 This is a project to practice some of the key concepts in Ruby on Rails including:
 * Building an authentication system from scratch
